@@ -1,0 +1,5 @@
+Started week 2 of erlang course
+
+Learned how to operate with lists
+
+Till the defining functions with lists using tail recursion is finished
