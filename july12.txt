@@ -1,0 +1,5 @@
+Almost completed week 2with skiping some exercises
+
+I think i have an idea about lists and built in fuctions like nub, take etc
+
+Since time is limited i have to move fast may be tomorrow I can work more time
