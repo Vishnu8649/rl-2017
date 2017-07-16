@@ -1,5 +1,5 @@
-Started week2 of the edx python tutorials
+continuing the edx python tutorials
 
-Done till half of the tutorials and exercises
+Done till half of the tutorials and exercises of week1
 
 Watched 2 videos of week0 lectures
