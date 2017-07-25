@@ -1,0 +1,3 @@
+Started week3 tutorials and reached almost half of the tutorials
+
+Done some go programs as they provided in the github
