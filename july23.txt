@@ -1,0 +1,3 @@
+Completed week2 tutorials of edx and the problem set 2
+
+Done some exercise in shell scripting as a revision
