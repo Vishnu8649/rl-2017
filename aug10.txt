@@ -1,0 +1,5 @@
+Completed the week5 tutorials of the edx course and the problem set
+
+Generatos and encryption programming were the highlight of this section
+
+classes are a better way to manage data
