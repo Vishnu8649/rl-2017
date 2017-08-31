@@ -1,0 +1,9 @@
+Watched 6 more videos till august30
+
+Learned about bugs memory leaks in c and how it is solved in python
+
+Also some basic stuffs  like files, import, functins and more details about functions
+
+Done some exercises regarding it
+
+On aug 30 i couldnt do anything since I had to attend a function
