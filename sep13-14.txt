@@ -1,0 +1,10 @@
+watched videos till sept13
+
+Undestood more programming with classes and learnt different ways of creating a class, initializing a clas and applying different methods to class
+
+
+understood lispy interpretation code 
+
+worked out almost basic exercises and recursive exercises all works fine
+
+learned a littile bit of javascript 
