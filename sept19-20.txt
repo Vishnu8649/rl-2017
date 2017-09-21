@@ -1,0 +1,7 @@
+Reached 4th chapter of js and worked out all exercises
+
+It seems like little bit tricky but learning to handle it
+
+watched videos till october5 there were somany things new in these videos 
+
+and learned and worked out some exercices regarding docstring decorator assertion exceptions etc
