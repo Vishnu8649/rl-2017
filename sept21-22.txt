@@ -1,0 +1,11 @@
+Gone through almost all required basic concepts in javascript
+
+Read data structures regular expression modules etc
+
+Some was confusing anyway started interpreter lis.js
+
+Started with tokenizing it was simple and found the solution faster
+
+The next one was parsing, parsing was bit trickier so took some time to find the solution 
+
+Looking forward for the other steps tomorrow
