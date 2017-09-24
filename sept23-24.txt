@@ -1,0 +1,11 @@
+These two days completely dedicated for interpreter building
+
+Completed almost all basic functionalities of lispy
+
+The Evaluation part was a bit trickier it took too much time to figure out the eval function but somehow could figureout it
+
+The parsing and tokenizing was easier considering to the Evaluation part
+
+I will push the program to the git repo tomorrow after checking some test casesand little bit of commending and other modifications.
+
+Managed to complete without much difficulties
