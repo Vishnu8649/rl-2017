@@ -1,0 +1,8 @@
+Completed the first part of the lisp interpreter with the commenting
+
+The second par seemednto be difficult it took a day for figure out how it can be implemented and found a solution.
+
+Trying to implement that but keeps showing some logical error 
+
+trying to figureout the error it creates new environment and the parameters gets maped to the arguments something wrong with evaluation
+
