@@ -1,0 +1,15 @@
+On 28 I tried the second part of the prgram 
+
+It took so much time to figureout how to do it anyway i got some ideas from net
+
+and on 29 i just left one day leave for my self
+
+and on 30th i managed to implement the searched contents to the first part of my interpreter
+
+There was some errors and took time to figure out since i am new to javascript
+
+But learnt so much of it during this project
+
+After some modifications i will push the updated program to github 
+
+tomorrow onwards i will catch up with the class videos of Pramod sir
