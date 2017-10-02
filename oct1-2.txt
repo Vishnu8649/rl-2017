@@ -1,0 +1,9 @@
+Completed the lisp interpreter with all requirements 
+
+Took some times to solve an error thn watched one video of Pramod sir
+
+on 2nd oct i was working out some exercises of generator 
+
+in evening sir posted new task and completed till chapter2 problem 20
+
+rest of the problems will be done in tommorrow
