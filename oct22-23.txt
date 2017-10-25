@@ -1,0 +1,9 @@
+Completed unit testing understood the idea about the unit testing 
+
+reading the refractoring chapter trying to understand it by working out the codes
+
+done three more problems of week1 of edx course
+
+those were simpler but took some time to figureout
+
+next days i hope will be able to finish refractor and goto next tasks
