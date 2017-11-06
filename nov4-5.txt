@@ -1,0 +1,7 @@
+Almost finished the html and css basic concepts
+
+worked with some examples
+
+also read some eloquent js canvas exercises
+
+hopefully will finish these fast and will go through the programming of the application as soon as possible
