@@ -1,0 +1,8 @@
+Started the paint application with small functionalities 
+
+The functionalities given are change background color clearing the canvas
+
+drawing is not completely done but had some progress
+
+yesterday i had alumini meet at my college so i couldnt do anything
+
