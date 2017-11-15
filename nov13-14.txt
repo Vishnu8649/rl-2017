@@ -1,0 +1,7 @@
+I have done the brush resizing and colouring part in panit application perfectly
+
+we can resize the brush as per our wish and also colour 
+
+the eraser also implemented but there is some problems with it trying to correct it too
+
+after done with the erasor i will move on to drawing shapes
