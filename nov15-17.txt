@@ -1,0 +1,7 @@
+Completed eraser,brush,colour changing , size changing, background changing and clear all functions of paint application
+
+trying to do the shape drawing function got the idea of the implementation
+
+but the drawing is not happening in the correct manner so looking for the way to do it
+
+on 17 and 16 i had a bad headache and cold so i couldnt do anything so took rest and fine now .
