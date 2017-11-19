@@ -1,0 +1,7 @@
+searched for dome alternative solution for the paint shape but couldnt find an elegent solution that fits in so im pausing it for now
+
+started reading http protocol 
+
+uploaded the paint app in git hub
+
+
