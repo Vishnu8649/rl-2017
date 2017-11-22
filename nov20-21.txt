@@ -1,0 +1,8 @@
+i am reading the concepts and how things work in http protocol
+
+and have an idea about how things should work in it and 
+
+done some basic client server programs for refreshing things
+
+hope could start coding next day onwards
+
