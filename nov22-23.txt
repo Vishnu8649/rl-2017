@@ -1,0 +1,7 @@
+i started to code the web server by refering some socket programming codes
+
+and with the help of google and other links
+
+in my program it can send some datas trying to extend it 
+
+will do more on this and extend it to send all files
