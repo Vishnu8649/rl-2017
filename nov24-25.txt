@@ -1,0 +1,7 @@
+Continuing the python webserver
+
+i can transfer text files without any problem 
+
+but there is some problems with the encoding of image trying to figure out it
+
+getting the text files in both in telnet and browser
