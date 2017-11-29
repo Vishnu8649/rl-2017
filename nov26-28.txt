@@ -1,0 +1,6 @@
+i have done till multiclient of the webserver it works fine
+
+tried so many headers i couldnt  find the correct implementation
+
+Searching for the correct implementation the image transfering
+
