@@ -1,0 +1,7 @@
+Completed day1 and 2  programs in advent coding competition
+
+Tried to troubleshoot the webserver in curl and telnet
+
+but the image not loading correctly 
+
+trying to correct it
