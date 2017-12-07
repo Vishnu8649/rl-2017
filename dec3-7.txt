@@ -1,0 +1,7 @@
+Completed the python webserver with almost all functionalities
+
+Sorry for the delayed update 
+
+since there was no progress i waited to get the correct output
+
+so going to start the django tutorials today itself
