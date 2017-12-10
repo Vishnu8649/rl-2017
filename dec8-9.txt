@@ -1,0 +1,7 @@
+Started django tutorials
+
+it was a bit difficult to understand the terms
+
+i have done till the basic blog creation part for better understanding im re doing the part once again
+
+even though its difficult its fun to do it
