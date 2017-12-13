@@ -1,0 +1,9 @@
+Completed the django tutorials with having a basic idea about how to build a website using django
+
+Created the website in the tutorial
+
+And also created a site in pythonanwhere by pulling it and it works well
+
+even if there was some issues in the program i could solve that
+
+I think i will workout some more extensions to this site
